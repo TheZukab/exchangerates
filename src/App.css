@@ -1,0 +1,28 @@
+.heading{
+font-family: 'Pacifico', cursive;
+font-size: 35px;
+}
+.container{
+height: 300px;
+width: 800px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+input{
+padding-left: 5px;
+font-size: 20px;
+height: 36px;
+}
+.result{
+box-sizing: border-box;
+width: 800px;
+padding-left: 30px;
+}
+button{
+width: 100px;
+height: 30px;
+}
+p{
+font-size: 30px;
+}
